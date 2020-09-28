@@ -1,0 +1,12 @@
+{
+  "name": "fetch-head",
+  "displayName": "fetch-head",
+  "expo": {
+    "name": "fetch-head",
+    "slug": "fetch-head",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
